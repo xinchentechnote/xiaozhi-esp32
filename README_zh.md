@@ -120,6 +120,7 @@
 
 ### 开发者文档
 
+- [macOS 从零开始一键构建指南](docs/macos-build_zh.md) - 自动准备 Homebrew、ESP-IDF v6.1 和芯片工具链并构建固件
 - [自定义开发板指南](docs/custom-board_zh.md) - 学习如何为小智 AI 创建自定义开发板
 - [MCP 协议物联网控制用法说明](docs/mcp-usage_zh.md) - 了解如何通过 MCP 协议控制物联网设备
 - [MCP 协议交互流程](docs/mcp-protocol_zh.md) - 设备端 MCP 协议的实现方式
